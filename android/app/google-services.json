@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "895761187130",
+    "project_id": "gestiong7-22fbc",
+    "storage_bucket": "gestiong7-22fbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895761187130:android:de5bc131681a6f08055003",
+        "android_client_info": {
+          "package_name": "com.example.marcas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895761187130-7r797trugruva3c9943tt3roqi5f6v4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marcas",
+            "certificate_hash": "c9dfd16d76662c8bc16596b5f6388669355a5ede"
+          }
+        },
+        {
+          "client_id": "895761187130-upcs45kekhhhpkdg5hnppcfqns71uond.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUqZymt7W886HZGv91RmSSUgTpgYsdyNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895761187130-upcs45kekhhhpkdg5hnppcfqns71uond.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
